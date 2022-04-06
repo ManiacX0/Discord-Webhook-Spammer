@@ -1,7 +1,7 @@
 # Discord Webhook Spammer
 Send a lot of requests on a discord webhook !
 
-Response Code(200): The message has been successfully sent.
+Response Code(200): The message has been successfully send.
 
 Response Code(429): Too many requests (Just wait few seconds).
 
