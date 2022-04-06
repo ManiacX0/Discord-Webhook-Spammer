@@ -10,4 +10,5 @@ Preview of the tool:
 
 # Contact
 Discord: ManiacX0#6116
+
 Discord Server: discord.gg/yxc3KqNf6e
