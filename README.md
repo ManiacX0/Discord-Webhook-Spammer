@@ -6,6 +6,7 @@ Response Code(200): The message has been successfully sent.
 Response Code(429): Too many requests (Just wait few seconds).
 
 Preview of the tool:
+
 ![](images/whspam.png)
 
 # Contact
